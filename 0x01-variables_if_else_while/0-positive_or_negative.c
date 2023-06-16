@@ -1,10 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
-* main -  entry point
-* Description: check random num
-* return :zero if success
+/**
+ * main -  entry point
+ *
+ * Description: false or true validation
+ *
+ * return :zero if success
 */
 int main(void)
 {
