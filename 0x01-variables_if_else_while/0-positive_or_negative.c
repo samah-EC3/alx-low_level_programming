@@ -2,12 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main -  entry point
- *
- * Description: false or true validation
- *
- * return :zero if success
+ * main - Entry point
+ * Description: random function test
+ * Return: Always 0 (Success)
 */
+
 int main(void)
 {
 	int n;
