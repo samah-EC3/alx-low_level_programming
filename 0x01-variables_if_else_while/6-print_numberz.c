@@ -7,12 +7,12 @@
 int main(void)
 
 {
-	int char_num = 48;
+	int num = 48;
 
-	while (char_num <= 57)
+	while (num <= 57)
 	{
-		putchar(char_num);
-		char_num++;
+		putchar(num);
+		num++;
 	}
 	putchar('\n');
 	return (0);
