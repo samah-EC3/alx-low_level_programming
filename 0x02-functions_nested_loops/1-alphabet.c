@@ -1,8 +1,8 @@
 #include "main.h"
+
 /**
- * main - check the code
- * Description:print alphabet
- * Return: Always 0.
+ * print_alphabet - utilize _putchar function to print small characters
+ *      print alphabet a  z
  */
 
 void print_alphabet(void)
