@@ -12,8 +12,8 @@ int main(void)
 	for (x = 48; x <= 57; x++)
 	{
 		for (y = 49; y <= 57; y++)
-		{	z = y++;
-			while ( z <= 57)
+		{	z = 50;
+			while (z <= 57)
 			{
 				putchar(x);
 				putchar(y);
