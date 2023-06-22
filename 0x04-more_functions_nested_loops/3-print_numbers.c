@@ -2,9 +2,7 @@
 #include<stdio.h>
 
 /**
- * _isdigit - take parameter c and compare with lower character
- * @c: the character in ASCII code
- * Return: Always 0 if upercase or 1 if lowercase
+ * print_numbers - print number from 0 to 9
  */
 
 void print_numbers(void)
@@ -15,5 +13,5 @@ void print_numbers(void)
 	{
 		_putchar(c);
 	}
-	_putchar('\n');	
+	_putchar('\n');
 }
