@@ -3,7 +3,7 @@
 
 /**
  * print_diagonal - print - according to n
- * @n: parameter repeat character -
+ * @n: parameter repeat character space and put \ at end
  */
 
 void print_diagonal(int n)
